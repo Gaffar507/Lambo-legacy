@@ -8,4 +8,8 @@ Will you be mine R....?
 I'm a student of University of Dhaka. I have a great dream of being an iconic Businessmen attached to Technology which is I love the most. In an interesting word it can be said that I have a great passion about that.
 I have to change my-self a little bit.
 I'm gonna finished this pulling and merging contest now.
+<<<<<<< HEAD
 My hobby is watching English movie and outing to the world!
+=======
+My hobby is watching English movie and outing to the world!
+>>>>>>> 16c75403cd5449da58c5ddb26368644647591cc6
